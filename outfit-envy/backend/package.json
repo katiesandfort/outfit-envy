@@ -1,8 +1,8 @@
 {
-  "name": "outfit-envy-backend",
+  "name": "sick-fits-backend",
   "version": "2.0.0",
   "private": true,
-  "author": "Katie Sandfort",
+  "author": "Wes Bos",
   "license": "MIT",
   "scripts": {
     "dev": "keystone-next",
