@@ -1,3 +1,5 @@
+const string = "string"
+
 export default function IndexPage() {
   return (
     <div>
