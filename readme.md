@@ -1,6 +1,7 @@
 ## Description
-**Work in progress!**
-Outfit Envy is an e-commerce platform designed to reduce clothing waste by encouraging users to sell their clothes instead of throwing them away, or alternatively to swap clothing with their friends. Users will be able to upload images and descriptions of clothes and add friends. Once you are friends with another user, each user will be able to see the other's virtual closet and plan to either sell or loan clothes.
+**Please note, this is a work in progress! I am still building out this project. 🙂**
+
+When it is complete, Outfit *Env*y will be an *env*ironementally friendly e-commerce platform designed to reduce clothing waste by making shopping secondhand clothing easy and convenient. It's based off one of my favorite ways to shop online, Thred Up! 
 
 ## Tech stack
 - Front-End: 
