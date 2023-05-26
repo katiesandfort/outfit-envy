@@ -7,8 +7,10 @@ When it is complete, Outfit *Env*y will be an *env*ironementally friendly e-comm
 - Front-End: 
     - React
     - Next.js
+      - Enables server-side rendering and static site generation.
     - Apollo Client
     - Styled Components
+      - Using styled components allows me to easily scope CSS and write CSS styles in a component-based manner. Styled components make it simple to apply dynamic styles based on props or state changes.
 
 - Backend:
     - Keystone.js 
